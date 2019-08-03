@@ -1,3 +1,3 @@
 # AzurePipelinesDemo
 
-https://dev.azure.com/SymbiosisICTSolutions/AzurePipelinesDemo/_apis/build/status/AzurePipelinesDemo%20(Dev)?branchName=dev
+[![Build Status](https://dev.azure.com/SymbiosisICTSolutions/AzurePipelinesDemo/_apis/build/status/AzurePipelinesDemo%20(Dev)?branchName=dev)](https://dev.azure.com/SymbiosisICTSolutions/AzurePipelinesDemo/_build/latest?definitionId=11&branchName=dev)
