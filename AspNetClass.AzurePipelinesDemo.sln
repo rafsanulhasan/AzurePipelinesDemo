@@ -9,13 +9,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		.gitattributes = .gitattributes
 		.gitignore = .gitignore
-		azure-pipelines-1.yml = azure-pipelines-1.yml
 		azure-pipelines.yml = azure-pipelines.yml
 		LICENSE = LICENSE
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetClass.AzurePipelinesDemo.Web.Tests", "AspNetClass.AzurePipelinesDemo.Web.Tests\AspNetClass.AzurePipelinesDemo.Web.Tests.csproj", "{4446420F-B361-4F82-8DA1-824BF849E9BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetClass.AzurePipelinesDemo.Web.Tests", "AspNetClass.AzurePipelinesDemo.Web.Tests\AspNetClass.AzurePipelinesDemo.Web.Tests.csproj", "{4446420F-B361-4F82-8DA1-824BF849E9BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
